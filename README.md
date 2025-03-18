@@ -1,4 +1,4 @@
-
+![GitHub GIF](GitGif.gif)
 ### :man_technologist: About Me : 
 - 👋 Hi, I’m @HalitYilmaz-Hy
 - 👀 I’m interested in "C#" , ".NET Core MVC", "Architecture Patterns(N-Tier and Onion)" and "SOLID Principles"
