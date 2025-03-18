@@ -29,7 +29,9 @@
   <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://github.com/HalitYilmaz-Hy/">
+  <a href="https://github.com/HalitYilmaz-H![GitGif](https://github.com/user-attachments/assets/002df381-7cda-4f53-806e-69d931f98153)
+y/"![cartoon-629_256](https://github.com/user-attachments/assets/8bbf3320-8751-407c-9c98-3420d7227ce6)
+>
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
 </div>  
