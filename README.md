@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**HalitYilmaz-HY/HalitYilmaz-HY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me : 
+- 👋 Hi, I’m @HalitYilmaz-Hy
+- 👀 I’m interested in "C#" , ".NET Core MVC", "Architecture Patterns(N-Tier and Onion)" and "SOLID Principles"
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on "C#" and ".NET Core MVC"
+- 📫 How to reach me "Halitylmz.dvlp@outlook.com"
+<br />
 
-Here are some ideas to get you started:
+ ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <a href="https://github.com/abdulkadirgungor86/">
+    <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://github.com/abdulkadirgungor86/">
+    <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+   <a href="https://github.com/abdulkadirgungor86/">
+    <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://github.com/abdulkadirgungor86/">
+    <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://github.com/abdulkadirgungor86/">
+    <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://github.com/abdulkadirgungor86/">
+    <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://github.com/abdulkadirgungor86/">
+    <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  </a>
+</div>  
+<br />  
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalitYilmaz-Hy)
+
+<br />  
+<br />
+
+
+
