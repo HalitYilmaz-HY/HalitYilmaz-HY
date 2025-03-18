@@ -9,27 +9,27 @@
 
  ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <a href="https://github.com/abdulkadirgungor86/">
+  <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://github.com/abdulkadirgungor86/">
+  <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </a>
-   <a href="https://github.com/abdulkadirgungor86/">
+   <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://github.com/abdulkadirgungor86/">
+  <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://github.com/abdulkadirgungor86/">
+  <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://github.com/abdulkadirgungor86/">
+  <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://github.com/abdulkadirgungor86/">
+  <a href="https://github.com/HalitYilmaz-Hy/">
     <img src="https://github.com/abdulkadirgungor86/abdulkadirgungor86/blob/main/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
 </div>  
