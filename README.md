@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/HalitYilmaz-Hy/">
+    <img src="https://github.com/user-attachments/assets/32a5563d-e8ad-4cf3-bb52-f7435247cc9f" alt="GitGif"/>
+  </a>
+</p>
 
 
 ### :man_technologist: About Me : 
